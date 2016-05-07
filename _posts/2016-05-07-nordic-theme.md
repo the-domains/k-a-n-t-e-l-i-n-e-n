@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ', track 1'
-datePublished: '2016-05-07T05:28:48.999Z'
-dateModified: '2016-05-07T05:28:32.161Z'
+datePublished: '2016-05-07T05:31:38.592Z'
+dateModified: '2016-05-07T05:31:28.338Z'
 authors: []
 publisher:
   name: null
@@ -15,8 +15,8 @@ publisher:
   favicon: null
 title: Nordic Theme
 author: []
-starred: false
 sourcePath: _posts/2016-05-07-nordic-theme.md
+starred: false
 url: nordic-theme/index.html
 _type: Article
 
